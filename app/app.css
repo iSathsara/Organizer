@@ -1,0 +1,36 @@
+.top-part{
+  background-color: coral;
+  display: flex;
+  flex-direction: row;
+  border-radius: 20px;
+  max-height: fit-content;
+
+
+}
+
+.eventform {
+  margin-left: 100px;
+
+}
+
+.calendar {
+  width: auto;
+  display: flex;
+  flex-direction: column;
+    margin-left: 60px;
+
+}
+
+.cal-inside{
+  height: auto;
+  width: fit-content;
+}
+
+.datepickerdemoCalendar {
+  /** Demo styles for mdCalendar. */ }
+.datepickerdemoCalendar label {
+  font-size: x-small; }
+
+
+
+
